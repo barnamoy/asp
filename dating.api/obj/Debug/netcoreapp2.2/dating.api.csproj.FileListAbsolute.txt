@@ -1,0 +1,14 @@
+/home/barnamoy/Documents/c#/dating-app/dating.api/bin/Debug/netcoreapp2.2/dating.api.deps.json
+/home/barnamoy/Documents/c#/dating-app/dating.api/bin/Debug/netcoreapp2.2/dating.api.runtimeconfig.json
+/home/barnamoy/Documents/c#/dating-app/dating.api/bin/Debug/netcoreapp2.2/dating.api.runtimeconfig.dev.json
+/home/barnamoy/Documents/c#/dating-app/dating.api/bin/Debug/netcoreapp2.2/dating.api.dll
+/home/barnamoy/Documents/c#/dating-app/dating.api/bin/Debug/netcoreapp2.2/dating.api.pdb
+/home/barnamoy/Documents/c#/dating-app/dating.api/obj/Debug/netcoreapp2.2/dating.api.csprojAssemblyReference.cache
+/home/barnamoy/Documents/c#/dating-app/dating.api/obj/Debug/netcoreapp2.2/dating.api.csproj.CoreCompileInputs.cache
+/home/barnamoy/Documents/c#/dating-app/dating.api/obj/Debug/netcoreapp2.2/dating.api.RazorAssemblyInfo.cache
+/home/barnamoy/Documents/c#/dating-app/dating.api/obj/Debug/netcoreapp2.2/dating.api.RazorAssemblyInfo.cs
+/home/barnamoy/Documents/c#/dating-app/dating.api/obj/Debug/netcoreapp2.2/dating.api.AssemblyInfoInputs.cache
+/home/barnamoy/Documents/c#/dating-app/dating.api/obj/Debug/netcoreapp2.2/dating.api.AssemblyInfo.cs
+/home/barnamoy/Documents/c#/dating-app/dating.api/obj/Debug/netcoreapp2.2/dating.api.RazorTargetAssemblyInfo.cache
+/home/barnamoy/Documents/c#/dating-app/dating.api/obj/Debug/netcoreapp2.2/dating.api.dll
+/home/barnamoy/Documents/c#/dating-app/dating.api/obj/Debug/netcoreapp2.2/dating.api.pdb
